@@ -1,2 +1,2 @@
-# scholar_hub
-A Smart Scholarship Portal to help students discover and apply for scholarships based on their eligibility.
+# internmatch-ai
+A web-based platform that helps students discover the most relevant internship opportunities based on their skills and interests.
